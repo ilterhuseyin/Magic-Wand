@@ -1,4 +1,4 @@
-# Magic-Wand
+# Magic Wand
 
 A magic wand pcb design.
 Based on Andre LaMothe's Crash Course Electronics Magic Wand Project :
